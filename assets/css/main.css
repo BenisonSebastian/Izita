@@ -2,7 +2,21 @@
 html {
   overflow-x: hidden;
 }
-
+/*! CSS Used from: file:///C:/My%20Web%20Sites/counter/colorlib.com/preview/theme/evento/assets/css/bootstrap.min.css */
+@media print{
+*,::after,::before{text-shadow:none!important;box-shadow:none!important;}
+img{page-break-inside:avoid;}
+}
+*,::after,::before{box-sizing:inherit;}
+img{vertical-align:middle;border-style:none;}
+.text-center{text-align:center!important;}
+/*! CSS Used from: file:///C:/My%20Web%20Sites/counter/colorlib.com/preview/theme/evento/assets/css/owl.carousel.min.css */
+.owl-carousel .owl-item img{display:block;-webkit-transform-style:preserve-3d;}
+/*! CSS Used from: file:///C:/My%20Web%20Sites/counter/colorlib.com/preview/theme/evento/assets/css/main.css */
+.brand_item{opacity:0.3;-webkit-transition:all ease-in-out 0.4s;transition:all ease-in-out 0.4s;}
+.brand_item img{display:block;max-width:130px;margin:0 auto;}
+.brand_item:hover{opacity:1;-webkit-transition:all ease-in-out 0.4s;transition:all ease-in-out 0.4s;}
+img{max-width:100%;}
 body {
   background: #fff;
   font-size: 15px;
