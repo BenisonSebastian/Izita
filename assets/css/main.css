@@ -24,12 +24,12 @@ a{-ms-touch-action:manipulation;touch-action:manipulation;}
 /*! CSS Used from: file:///C:/My%20Web%20Sites/counter/colorlib.com/preview/theme/evento/assets/css/main.css */
 a{color:inherit;text-decoration:none;cursor:pointer;font-size:13px;font-weight:400;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out;}
 a:hover,a:focus,a:active{text-decoration:none;outline:none;color:#838383;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out;}
-.btn{font-size:12px;line-height:1.7;text-transform:uppercase;color:#fff;font-weight:500;padding:12px 40px;border-radius:0;outline:0!important;border:none;cursor:pointer;background-color:#f50136;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
-.btn:hover{color:#f50136;background-color:#fff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn{font-size:12px;line-height:1.7;text-transform:uppercase;color:#fff;font-weight:500;padding:12px 40px;border-radius:0;outline:0!important;border:none;cursor:pointer;background-color:#4CA6A6;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn:hover{color:#4CA6A6;background-color:#fff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
 .btn:focus{outline:0!important;-webkit-box-shadow:0 0 0 rgba(0, 0, 0, 0);box-shadow:0 0 0 rgba(0, 0, 0, 0);}
 .btn-rounded{border-radius:50px;}
-.btn-primary{background-color:#f50136;border:solid 1px #f50136;color:#ffffff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
-.btn-primary:hover{background-color:#f50136;;color:#ffffff;border:solid 1px #f50136;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn-primary{background-color:#4CA6A6;border:solid 1px #4CA6A6;color:#ffffff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn-primary:hover{background-color:#4CA6A6;;color:#ffffff;border:solid 1px #4CA6A6;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
 /*! CSS Used from: file:///C:/My%20Web%20Sites/counter/colorlib.com/preview/theme/evento/assets/css/bootstrap.min.css */
 @media print{
 *,::after,::before{text-shadow:none!important;box-shadow:none!important;}
@@ -81,7 +81,7 @@ h6{font-size:1rem;}
 .btn-primary:active{background-color:#0069d9;background-image:none;border-color:#0062cc;}
 .justify-content-center{-ms-flex-pack:center!important;justify-content:center!important;}
 /*! CSS Used from: file:///C:/My%20Web%20Sites/counter/colorlib.com/preview/theme/evento/assets/css/main.css */
-h3,h4,h6{font-family:"Montserrat", sans-serif;font-weight:700;color:#f50136;;line-height:1.3;}
+h3,h4,h6{font-family:"Montserrat", sans-serif;font-weight:700;color:#4CA6A6;;line-height:1.3;}
 h3{font-size:36px;margin-bottom:25px;}
 h4{font-size:24px;margin-bottom:15px;}
 h6{font-size:14px;margin-bottom:10px;}
@@ -89,7 +89,7 @@ a{color:inherit;text-decoration:none;cursor:pointer;font-size:13px;font-weight:4
 a:hover,a:focus,a:active{text-decoration:none;outline:none;color:#838383;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out;}
 .section_title{position:relative;margin-bottom:25px;}
 .section_title .title{text-transform:uppercase;padding:10px 0;font-size:36px;}
-.section_title .title:before{width:30px;content:" ";position:absolute;border-top:solid 3px #f50136;left:0;top:0;}
+.section_title .title:before{width:30px;content:" ";position:absolute;border-top:solid 3px #4CA6A6;left:0;top:0;}
 @media (max-width: 768px){
 h3{font-size:20px;margin-bottom:15px;}
 h4{font-size:16px;margin-bottom:10px;}
@@ -97,17 +97,17 @@ h6{font-size:12px;margin-bottom:5px;}
 }
 .pb100{padding-bottom:100px!important;}
 .mb50{margin-bottom:50px!important;}
-.btn{font-size:12px;line-height:1.7;text-transform:uppercase;color:#fff;font-weight:500;padding:12px 40px;border-radius:0;outline:0!important;border:none;cursor:pointer;background-color:#f50136;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
-.btn:hover{color:#f50136;;background-color:#fff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn{font-size:12px;line-height:1.7;text-transform:uppercase;color:#fff;font-weight:500;padding:12px 40px;border-radius:0;outline:0!important;border:none;cursor:pointer;background-color:#4CA6A6;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn:hover{color:#4CA6A6;;background-color:#fff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
 .btn:focus{outline:0!important;-webkit-box-shadow:0 0 0 rgba(0, 0, 0, 0);box-shadow:0 0 0 rgba(0, 0, 0, 0);}
 .btn-rounded{border-radius:50px;}
-.btn-primary{background-color:#f50136;border:solid 1px #f50136;color:#ffffff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
-.btn-primary:hover{background-color:#f50136;;color:#ffffff;border:solid 1px #f50136;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn-primary{background-color:#4CA6A6;border:solid 1px #4CA6A6;color:#ffffff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn-primary:hover{background-color:#4CA6A6;;color:#ffffff;border:solid 1px #4CA6A6;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
 .price_box{position:relative;padding:75px 30px;margin-bottom:30px;text-align:center;background-color:#f0f2f6;-webkit-transition:all ease-in-out 0.4s;transition:all ease-in-out 0.4s;}
-.price_box .price_highlight{background-color:#f50136;font-weight:700;text-transform:uppercase;font-size:12px;position:absolute;top:0;left:0;padding:10px 15px;color:#fff;}
+.price_box .price_highlight{background-color:#4CA6A6;font-weight:700;text-transform:uppercase;font-size:12px;position:absolute;top:0;left:0;padding:10px 15px;color:#fff;}
 .price_box .price_header h4{font-size:24px;margin-bottom:5px;font-weight:600;}
 .price_box .price_header h6{font-size:14px;text-transform:capitalize;color:#838383;font-weight:400;}
-.price_box .price_tag{padding:15px 0;text-transform:capitalize;color:#f50136;;font-size:48px;font-weight:700;}
+.price_box .price_tag{padding:15px 0;text-transform:capitalize;color:#4CA6A6;;font-size:48px;font-weight:700;}
 .price_box .price_tag sup{font-size:24px;font-weight:400;top:-15px;left:-7px;color:#838383;}
 .price_box .price_features ul{list-style:none;padding:0;margin:0;}
 .price_box .price_features ul li{padding:7px;font-size:14px;font-weight:400;}
@@ -2366,9 +2366,9 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 a{color:inherit;text-decoration:none;cursor:pointer;font-size:13px;font-weight:400;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out;}
 a:hover,a:focus,a:active{text-decoration:none;outline:none;color:#838383;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out;}
-.btn{font-size:12px;line-height:1.7;text-transform:uppercase;color:#fff;font-weight:500;padding:12px 40px;border-radius:0;outline:0!important;border:none;cursor:pointer;background-color:#f50136;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
-.btn:hover{color:#f50136;;background-color:#fff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn{font-size:12px;line-height:1.7;text-transform:uppercase;color:#fff;font-weight:500;padding:12px 40px;border-radius:0;outline:0!important;border:none;cursor:pointer;background-color:#4CA6A6;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn:hover{color:#4CA6A6;;background-color:#fff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
 .btn:focus{outline:0!important;-webkit-box-shadow:0 0 0 rgba(0, 0, 0, 0);box-shadow:0 0 0 rgba(0, 0, 0, 0);}
 .btn-rounded{border-radius:50px;}
-.btn-primary{background-color:#f50136;border:solid 1px #f50136;color:#ffffff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
-.btn-primary:hover{background-color:#f50136;;color:#ffffff;border:solid 1px #f50136;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn-primary{background-color:#4CA6A6;border:solid 1px #4CA6A6;color:#ffffff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+.btn-primary:hover{background-color:#4CA6A6;;color:#ffffff;border:solid 1px #4CA6A6;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
