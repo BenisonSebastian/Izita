@@ -2136,19 +2136,12 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 /* Pricing Ticket */
-#pricing {
-  background: url(../img/background/bg-pricing.jpg);
-  background-attachment: fixed;
-  overflow: hidden;
-  position: relative;
-}
-
 #pricing .section-title-header .section-title {
-  color: #fff;
+  color: #000;
 }
 
 #pricing .section-title-header p {
-  color: #fff;
+  color: #000;
 }
 
 #pricing .price-block-wrapper {
