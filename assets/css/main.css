@@ -2365,3 +2365,195 @@ a:hover,a:focus,a:active{text-decoration:none;outline:none;color:#838383;-webkit
 .btn-rounded{border-radius:50px;}
 .btn-primary{background-color:#4CA6A6;border:solid 1px #4CA6A6;color:#ffffff;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
 .btn-primary:hover{background-color:#4CA6A6;;color:#ffffff;border:solid 1px #4CA6A6;;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;}
+
+/*contact us area*/
+#contactus {
+  background: #f3f4f3;
+}
+
+#contactus-tab {
+  position: relative;
+}
+
+.contactus .contactus-tab-title {
+  margin-bottom: 35px;
+}
+
+.contactus .contactus-tab-title .nav-tabs {
+  background: #ffffff;
+}
+
+.contactus .contactus-tab-title .nav-tabs .nav-link {
+  border-radius: 0px;
+  position: relative;
+  cursor: pointer;
+  height: 90px;
+  width: 255px;
+  border-bottom: 1px solid #e5e5e5;
+  transition: all 500ms ease;
+  padding: 20px 20px;
+}
+
+.contactus .contactus-tab-title .nav-tabs .nav-item.show .nav-link, .contactus .contactus-tab-title .nav-tabs .nav-link.active,
+.contactus .contactus-tab-title .nav-tabs .nav-item .nav-link:hover {
+  background: #4CA6A6;
+  border: 1px solid #4CA6A6;
+  transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -o-transition: all 0.3s ease-in-out 0s;
+}
+
+.contactus .contactus-tab-title .nav-tabs .nav-item.show .nav-link h4, .contactus .contactus-tab-title .nav-tabs .nav-link.active h4,
+.contactus .contactus-tab-title .nav-tabs .nav-item .nav-link:hover h4 {
+  color: #fff;
+}
+
+.contactus .contactus-tab-title .nav-tabs .nav-item.show .nav-link h5, .contactus .contactus-tab-title .nav-tabs .nav-link.active h5,
+.contactus .contactus-tab-title .nav-tabs .nav-item .nav-link:hover h5 {
+  color: #fff;
+}
+
+.contactus .contactus-tab-title .item-text h4 {
+  font-size: 15px;
+  color: #2f323c;
+  line-height: 22px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.contactus .contactus-tab-title .item-text h5 {
+  font-size: 14px;
+  color: #848484;
+  line-height: 16px;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+.contactus .contactus-tab-content .tab-content {
+  box-shadow: 1px 3px 15px rgba(0, 0, 0, 0.1);
+}
+
+.contactus .contactus-tab-content .card {
+  border: none;
+}
+
+.contactus .show .card-body {
+  background: #f3f4f3;
+}
+
+.contactus .card-header {
+  border: none;
+  cursor: pointer;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+.contactus .card-header .images-box {
+  width: 70px;
+  height: 70px;
+  float: left;
+  margin-right: 20px;
+}
+
+.contactus .card-header .images-box img {
+  border-radius: 50%;
+  padding:10px;
+}
+
+.contactus .card-header .time {
+  color: #777777;
+  font-size: 13px;
+  margin-bottom: 5px;
+}
+
+.contactus .card-header h4 {
+  font-weight: 700;
+  font-size: 18px;
+  color: #212121;
+  margin-bottom: 8px;
+}
+
+.contactus .card-header .name {
+  position: relative;
+  font-size: 14px;
+  color: #777777;
+  font-weight: 500;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.contactus .card-body {
+  padding: 15px 70px 15px 110px;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+.contactus .card-body .info {
+  font-size: 15px;
+  color: #777777;
+}
+
+.contactus .card-body .info span {
+  color: #4CA6A6;
+  margin-right: 5px;
+}
+
+.accordion .card {
+  border-radius: 0px;
+  margin-bottom: -2px;
+}
+
+.accordion .header-title {
+  position: relative;
+}
+
+.accordion .header-title:after {
+  font-family: "LineIcons";
+  content: "\e93a";
+  position: absolute;
+  right: 10px;
+  color: #999;
+  top: 50%;
+  line-height: 1;
+  padding: 0px 5px;
+  margin-top: -7px;
+}
+
+.accordion .collapsed:after {
+  content: "\e940";
+}
+
+.accordion .card-header {
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+}
+
+.accordion .card-header i {
+  color: #4CA6A6;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  line-height: 40px;
+  text-align: center;
+  margin-right: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.accordion .card-body {
+  padding-left: 56px;
+}
+
+
+.contactus .accordion .card-body .icon i {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  line-height: 50px;
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #4CA6A6 !important;
+  border-radius: 0;
+}
+
